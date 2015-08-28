@@ -36,7 +36,7 @@ setup(name='jicimagelib',
       download_url = 'https://github.com/JIC-CSB/jicimagelib/tarball/{}'.format(jicimagelib.__version__),
       license='MIT',
       classifiers=[
-        "Development Status :: 3 - Alpha",
+        "Development Status :: 7 - Inactive",
         "Intended Audience :: Developers",
         "Intended Audience :: Science/Research",
         "License :: OSI Approved :: MIT License",
